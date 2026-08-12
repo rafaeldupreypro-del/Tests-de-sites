@@ -1,4 +1,0 @@
-node_modules/
-.env
-data/subscribers.json
-npm-debug.log*

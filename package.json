@@ -1,9 +1,0 @@
-{
-  "name": "atelier-meridien-site",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Site Atelier Méridien — site statique + fonctions API Vercel (/api/contact, /api/newsletter).",
-  "dependencies": {
-    "nodemailer": "^6.9.14"
-  }
-}
